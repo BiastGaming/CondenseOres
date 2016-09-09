@@ -1,0 +1,8 @@
+config-version: 1.0 #Do not touch this
+BiastHQ: false #Do Not Touch This As Well
+console-cant-use: "&cError the console cannot do this"
+no-permission-error: "&4You do not have sufficient permissions"
+not-ernough-args-error: "&cNot Enough Arguments Supplied"
+usage: "/condense <stacks>."
+not-int-error: "&cOne of your arguments was not an interger"
+unhandled-error: "&cNot Handled Error"
